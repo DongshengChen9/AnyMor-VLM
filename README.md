@@ -30,7 +30,7 @@ Please check requirements.txt for detailed requirements.
 
 ## Install the companion data
 
-See the data [layout guide](docs/DATA_LAYOUT.md) in doc for the required directory tree and environment-variable alternatives. 
+See the [data layout guide](docs/DATA_LAYOUT.md) in doc for the required directory tree and environment-variable alternatives. 
 
 ## Run experiments
 
