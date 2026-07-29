@@ -2,7 +2,7 @@
 
 This repository contains the code for the journal article: **Classifying arbitrary urban morphotypes: A typology-aligned, open-world approach**
 To keep the publication repository lightweight and access-controlled where necessary, images, captions, and trained checkpoints are provided 
-separately through the companion **data repository** (https://doi.org/10.5281/zenodo.18326961)
+separately through the companion [**data repository**](https://zenodo.org/records/21679157?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM5Y2IwZmFhLTI3NTItNGQyOC04M2Y3LTY2ZTgzNzQyNDczYyIsImRhdGEiOnt9LCJyYW5kb20iOiI0MTQyNWNlYTE1ODk5NDYxNjgwMjM5MmNlYzMwMmYwMSJ9.JKe_venW0QVXaWoElP2lqikmwRBEih1cZVVwQn0uVaZ3gG-YEHBcqVo1Yb8QzpfNrj-lUYHE-KBIOkBATQNyKQ)
         
         
         
