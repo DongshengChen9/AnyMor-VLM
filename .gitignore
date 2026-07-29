@@ -3,16 +3,10 @@ datasets/
 
 # Generated experiment artifacts
 outputs/
-dev_outputs/
-Test_model/
 checkpoints/
 *.pt
 *.pth
 *.ckpt
-
-# Local work products retained outside the publication code path
-archive/
-scripts/legacy/
 
 # Python and notebook cache files
 __pycache__/
