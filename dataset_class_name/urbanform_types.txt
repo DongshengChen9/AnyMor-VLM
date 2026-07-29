@@ -1,0 +1,7 @@
+Category,MorphologicalName,Description
+0,garden city,low-density form & curvilinear organic pattern
+1,industrial city,dense compact form & regular grid or linear pattern
+2,informal settlement,dense small housing & irregular unplanned
+3,modernist planning,geometric order & lots of open space
+4,neo-traditional planning,partially compact form & modified grid
+5,pre-industrial city,dense compact form & labyrinthine organic

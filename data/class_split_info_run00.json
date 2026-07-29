@@ -1,0 +1,6 @@
+{
+    "train_classes": [0,1,2,3],
+    "unlabeled_classes": [2,3,4,5],
+    "train_labelled_classes": [0,1],
+    "train_unlabelled_classes": [2,3]
+}
