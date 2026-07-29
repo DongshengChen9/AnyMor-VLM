@@ -1,8 +1,10 @@
-# AnyMor-VLM: GCD-inspired urban morphology (figure-ground maps) classification
+# AnyMor-VLM: GCD-inspired urban morphology classification (figure-ground maps) 
 
-This repository contains the code for the journal article: Classifying arbitrary urban morphotypes: A typology-aligned, open-world approach
+This repository contains the code for the journal article: **Classifying arbitrary urban morphotypes: A typology-aligned, open-world approach**
 To keep the publication repository lightweight and access-controlled where necessary, images, captions, and trained checkpoints are provided 
-separately through the companion **data repository** (https://doi.org/10.5281/zenodo.18326961).
+separately through the companion **data repository** (https://doi.org/10.5281/zenodo.18326961)
+        
+        .
 
 ## Repository structure
 
