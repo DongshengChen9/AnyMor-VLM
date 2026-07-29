@@ -1,0 +1,14 @@
+loguru
+numpy
+pandas
+scikit-learn
+scipy
+torch
+torchvision
+tqdm
+ftfy
+regex
+transformers
+clip
+openai
+
