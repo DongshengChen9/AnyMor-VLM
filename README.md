@@ -6,6 +6,8 @@ separately through the companion **data repository** (https://doi.org/10.5281/ze
         
         
         
+        
+        
 
 ## Repository structure
 
@@ -28,12 +30,12 @@ Please check requirements.txt for detailed requirements.
 
 ## Install the companion data
 
-See the data layout guide (docs/DATA_LAYOUT.md) for the required directory tree and environment-variable alternatives. 
+See the data [layout guide](docs/DATA_LAYOUT.md) in doc for the required directory tree and environment-variable alternatives. 
 
 ## Run experiments
 
 Concrete commands and the mapping from scripts to paper experiments are in
-the experiment guide (docs/EXPERIMENTS.md).
+[the experiment guide](docs/EXPERIMENTS.md) in doc.
 
 ## Outputs and reproducibility
 
