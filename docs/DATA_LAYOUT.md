@@ -12,8 +12,7 @@ from the data repository.
 
 ## Additional files required for full reproduction
 
-To reproduce all paper results, download the companion data repository 
-(https://doi.org/10.5281/zenodo.18326961) and copy its contents into this 
+To reproduce all paper results, download the companion [data repository](https://zenodo.org/records/21679157?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM5Y2IwZmFhLTI3NTItNGQyOC04M2Y3LTY2ZTgzNzQyNDczYyIsImRhdGEiOnt9LCJyYW5kb20iOiI0MTQyNWNlYTE1ODk5NDYxNjgwMjM5MmNlYzMwMmYwMSJ9.JKe_venW0QVXaWoElP2lqikmwRBEih1cZVVwQn0uVaZ3gG-YEHBcqVo1Yb8QzpfNrj-lUYHE-KBIOkBATQNyKQ) and copy its contents into this 
 code repository as follows:
 
 1. Copy the data repository's `datasets/` directory to `AnyMor-VLM/datasets`.
