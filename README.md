@@ -1,20 +1,10 @@
-# AnyMor-VLM: GCD-inspired urban morphology classification (with figure-ground maps and vision-language models) 
+# AnyMor-VLM: GCD-inspired urban morphology classification (figure-ground maps and vision-language models) 
 
-This repository contains the code for the journal article: [**Classifying arbitrary urban morphotypes: A typology-aligned, open-world approach**](https://www.tandfonline.com/doi/full/10.1080/19475683.2026.2743305
-        
-        ) (doi: 10.1080/19475683.2026.2743305)
-        
-        .
+This repository contains the code for the journal article: [**Classifying arbitrary urban morphotypes: A typology-aligned, open-world approach**](https://www.tandfonline.com/doi/full/10.1080/19475683.2026.2743305) (doi: 10.1080/19475683.2026.2743305).
 
 To keep the publication repository lightweight and access-controlled where necessary, images, captions, and trained checkpoints are provided 
-separately through the companion [**data repository**](https://doi.org/10.5281/zenodo.21679157
-        
-        ) (doi: 10.5281/zenodo.21679157)
-        
-        .
-        
-        
-        
+separately through the companion [**data repository**](https://doi.org/10.5281/zenodo.21679157) (doi: 10.5281/zenodo.21679157).
+
 
 ## Repository structure
 
@@ -52,6 +42,8 @@ command, random seed,data-repository commit, and checkpoint hash for each report
 ## Citation
 
 Chen, D., Yao, Y., Li, X., Cao, J., Gu, Y., & Meng, L. (2026). Classifying arbitrary urban morphotypes: a typology-aligned, open-world approach. Annals of GIS, 1–28. https://doi.org/10.1080/19475683.2026.2743305
+        
+        
         
         
         
