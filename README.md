@@ -45,3 +45,14 @@ command, random seed,data-repository commit, and checkpoint hash for each report
 ## Citation
 
 Chen, D., Yao, Y., Li, X., Cao, J., Gu, Y., & Meng, L. (2026). Classifying arbitrary urban morphotypes: a typology-aligned, open-world approach. Annals of GIS, 1–28. https://doi.org/10.1080/19475683.2026.2743305
+
+For BibTex:
+author = {Dongsheng Chen and Yao Yao and Xun Li and Jinzhou Cao and Yu Gu and Liqiu Meng},
+title = {Classifying arbitrary urban morphotypes: a typology-aligned, open-world approach},
+journal = {Annals of GIS},
+volume = {0},
+number = {0},
+pages = {1--28},
+year = {2026},
+publisher = {Taylor \& Francis},
+doi = {10.1080/19475683.2026.2743305},
